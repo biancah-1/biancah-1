@@ -7,8 +7,8 @@
 🫀 I'm passionate about health care and its intersection with technology. </br>
 🎨 I love creative endeavours; you may find me drawing, painting, crocheting, embroidering or playing music (namely ukulele or piano). </br>
 📊 I'm weirdly into looking at data. </br>
-🏋️‍♀️ I unwind at the gym, going for a run or climbing with friends. 
-
+🏋️‍♀️ I unwind at the gym, going for a run or climbing with friends. </br>
+🌱 I'm currently working on a little project combining my interest in data and weightlifting! 
 
 
 <!--
